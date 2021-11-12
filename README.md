@@ -6,7 +6,7 @@ This is a Frontend Development project Designed and Developed by me using HTML a
 
 [Link to Live Project](https://muneebali500.github.io/testimonial/)
 
-![eagler website](/img/testimonial.png)
+![testimonial section](/img/testimonial.png)
 
 ## Technologies Used
 
